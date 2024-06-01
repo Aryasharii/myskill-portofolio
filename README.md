@@ -69,29 +69,41 @@ Misalkan kamu adalah seorang data analyst di suatu perusahaan ritel yang baru sa
 
 
 ## Hasil
-link google looker studio: <a href="https://lookerstudio.google.com/reporting/4bb99560-6bde-4f2e-a373-a464fa497de1">
+link google looker studio: <a href="https://lookerstudio.google.com/reporting/4bb99560-6bde-4f2e-a373-a464fa497de1"><br>
 ![Hasil Secara Keseluruhan](https://github.com/Aryasharii/myskill-portofolio/raw/looker-studio/image/hasil.png)
 
 ## Hasil
 #### Performa Transaksi Secara Keseluruhan
-1. ![Performa Transaksi Secara Keseluruhan](https://github.com/Aryasharii/myskill-portofolio/raw/looker-studio/image/hasil1.png) memberikan informasi tentang total penjualan, jumlah konsumen unik, profit, total diskon, dan jumlah barang terjual dari semua transaksi penjualan.
+![Performa Transaksi Secara Keseluruhan](https://github.com/Aryasharii/myskill-portofolio/raw/looker-studio/image/hasil1.png)
+<br>
+1. memberikan informasi tentang total penjualan, jumlah konsumen unik, profit, total diskon, dan jumlah barang terjual dari semua transaksi penjualan.
 
 #### Analisis Tren Penjualan
-2. ![Analisis Tren Penjualan](https://github.com/Aryasharii/myskill-portofolio/raw/looker-studio/image/hasil2.png) menampilkan grafik garis yang memperlihatkan tren penjualan dari waktu ke waktu, baik harian, mingguan, maupun bulanan.
+![Analisis Tren Penjualan](https://github.com/Aryasharii/myskill-portofolio/raw/looker-studio/image/hasil2.png) 
+<br>
+2. menampilkan grafik garis yang memperlihatkan tren penjualan dari waktu ke waktu, baik harian, mingguan, maupun bulanan.
 
 #### Performa Metode Pembayaran
-3. ![Performa Metode Pembayaran](https://github.com/Aryasharii/myskill-portofolio/raw/looker-studio/image/hasil3.png) menampilkan grafik batang, diagram kolom, atau diagram lingkaran yang menunjukkan jumlah transaksi dan nilai total transaksi untuk setiap metode pembayaran.
+![Performa Metode Pembayaran](https://github.com/Aryasharii/myskill-portofolio/raw/looker-studio/image/hasil3.png)
+<br>
+3. menampilkan grafik batang, diagram kolom, atau diagram lingkaran yang menunjukkan jumlah transaksi dan nilai total transaksi untuk setiap metode pembayaran.
 
 #### Produk Terlaris
-4. ![Produk Terlaris](https://github.com/Aryasharii/myskill-portofolio/raw/looker-studio/image/hasil4.png) menampilkan grafik batang, diagram kolom, atau diagram lingkaran yang memperlihatkan nilai penjualan untuk setiap produk, dengan penekanan pada produk-produk yang paling laris.
+![Produk Terlaris](https://github.com/Aryasharii/myskill-portofolio/raw/looker-studio/image/hasil4.png)
+<br>
+4. menampilkan grafik batang, diagram kolom, atau diagram lingkaran yang memperlihatkan nilai penjualan untuk setiap produk, dengan penekanan pada produk-produk yang paling laris.
 
 #### Analisis Pengeluaran untuk Diskon
-5. ![Analisis Pengeluaran untuk Diskon](https://github.com/Aryasharii/myskill-portofolio/raw/looker-studio/image/hasil5.png) menampilkan grafik batang atau diagram kolom yang memperlihatkan jumlah diskon untuk setiap produk atau kategori produk.
+![Analisis Pengeluaran untuk Diskon](https://github.com/Aryasharii/myskill-portofolio/raw/looker-studio/image/hasil5.png) 
+<br>
+5. menampilkan grafik batang atau diagram kolom yang memperlihatkan jumlah diskon untuk setiap produk atau kategori produk.
 
 #### Ringkasan Transaksi untuk Produk
 ##### Ringkasan Transaksi untuk Produk
-6. ![Ringkasan Transaksi untuk Produk](https://github.com/Aryasharii/myskill-portofolio/raw/looker-studio/image/hasil6.png)
+6.<br>
+![Ringkasan Transaksi untuk Produk](https://github.com/Aryasharii/myskill-portofolio/raw/looker-studio/image/hasil6.png)
 ##### Ringkasan Transaksi untuk Konsumen
-7. ![Ringkasan Transaksi untuk Konsumen](https://github.com/Aryasharii/myskill-portofolio/raw/looker-studio/image/hasil7.png) 
-menampilkan tabel yang berisi ringkasan transaksi untuk setiap produk dan konsumen, termasuk jumlah terjual, total pendapatan, profit, total diskon, jumlah transaksi, total pendapatan dari konsumen, dan profit dari konsumen.
+7.<br>
+![Ringkasan Transaksi untuk Konsumen](https://github.com/Aryasharii/myskill-portofolio/raw/looker-studio/image/hasil7.png) 
+<br>menampilkan tabel yang berisi ringkasan transaksi untuk setiap produk dan konsumen, termasuk jumlah terjual, total pendapatan, profit, total diskon, jumlah transaksi, total pendapatan dari konsumen, dan profit dari konsumen.
 
