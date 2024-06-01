@@ -78,7 +78,7 @@ Misalkan kamu adalah seorang data analyst di suatu perusahaan ritel yang baru sa
 2. ![Analisis Tren Penjualan](https://github.com/Aryasharii/myskill-portofolio/raw/looker-studio/image/hasil2.png) menampilkan grafik garis yang memperlihatkan tren penjualan dari waktu ke waktu, baik harian, mingguan, maupun bulanan.
 
 #### Performa Metode Pembayaran
-3. ![Performa Metode Pembayaran](https://github.com/Aryasharii/myskill-portofolio/raw/looker-studio/image/hasil2.png) menampilkan grafik batang, diagram kolom, atau diagram lingkaran yang menunjukkan jumlah transaksi dan nilai total transaksi untuk setiap metode pembayaran.
+3. ![Performa Metode Pembayaran](https://github.com/Aryasharii/myskill-portofolio/raw/looker-studio/image/hasil3.png) menampilkan grafik batang, diagram kolom, atau diagram lingkaran yang menunjukkan jumlah transaksi dan nilai total transaksi untuk setiap metode pembayaran.
 
 #### Produk Terlaris
 4. ![Produk Terlaris](https://github.com/Aryasharii/myskill-portofolio/raw/looker-studio/image/hasil4.png) menampilkan grafik batang, diagram kolom, atau diagram lingkaran yang memperlihatkan nilai penjualan untuk setiap produk, dengan penekanan pada produk-produk yang paling laris.
