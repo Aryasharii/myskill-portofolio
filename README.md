@@ -69,7 +69,8 @@ Misalkan kamu adalah seorang data analyst di suatu perusahaan ritel yang baru sa
 
 
 ## Hasil
-link google looker studio: <a href="https://lookerstudio.google.com/reporting/4bb99560-6bde-4f2e-a373-a464fa497de1"><br>
+link google looker studio: <a href="https://lookerstudio.google.com/reporting/4bb99560-6bde-4f2e-a373-a464fa497de1">Link ke google looker studio</a>
+<br>
 ![Hasil Secara Keseluruhan](https://github.com/Aryasharii/myskill-portofolio/raw/looker-studio/image/hasil.png)
 
 ## Hasil
