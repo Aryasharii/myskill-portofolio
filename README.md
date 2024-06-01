@@ -65,9 +65,11 @@ Misalkan kamu adalah seorang data analyst di suatu perusahaan ritel yang baru sa
   - Profit dari Konsumen
 
 ## Mockup
-![Mockup Dashboard](https://github.com/Aryasharii/myskill-portofolio/raw/looker-studio/image/mockup.png)
+<img src="https://github.com/Aryasharii/myskill-portofolio/raw/looker-studio/image/mockup.png" alt="Mockup Dashboard" width="300">
+
 
 ## Hasil
+link google looker studio: <a href="https://lookerstudio.google.com/reporting/4bb99560-6bde-4f2e-a373-a464fa497de1">
 ![Hasil Secara Keseluruhan](https://github.com/Aryasharii/myskill-portofolio/raw/looker-studio/image/hasil.png)
 
 ## Hasil
