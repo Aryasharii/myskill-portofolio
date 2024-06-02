@@ -6,7 +6,7 @@ Misalkan kamu adalah seorang data analyst di suatu perusahaan ritel yang baru sa
 2. Mengetahui trend penjualan
 3. Mengetahui performa dari setiap metode pembayaran
 4. Mengetahui product mana yang paling laku
-5. Mengetahui spending untuk discount
+5. Mengetahui revenue vs profit
 6. Ringkasan transaksi untuk setiap produk dan konsumen
 
 ## Daftar Isi
@@ -46,9 +46,9 @@ Misalkan kamu adalah seorang data analyst di suatu perusahaan ritel yang baru sa
 - **Grafik Batang/Diagram Kolom/Diagram Lingkaran**: Menunjukkan nilai penjualan untuk setiap produk.
 - Soroti produk-produk yang paling laris.
 
-### 5. Analisis Pengeluaran untuk Diskon
+### 5. Analisis Revenue dibandingkan profit
 **Grafik yang Ditampilkan:**
-- **Grafik Batang/Diagram Kolom**: Menampilkan jumlah diskon untuk setiap produk atau kategori produk.
+- **Grafik Batang/Diagram Kolom**: Menampilkan jumlah revenue dan profit untuk setiap kategori produk.
 
 ### 6. Ringkasan Transaksi untuk Produk dan Konsumen
 **Tabel yang Ditampilkan:**
@@ -97,7 +97,7 @@ link google looker studio: <a href="https://lookerstudio.google.com/reporting/4b
 #### Analisis Pengeluaran untuk Diskon
 ![Analisis Pengeluaran untuk Diskon](https://github.com/Aryasharii/myskill-portofolio/raw/looker-studio/image/hasil5.png) 
 <br>
-5. menampilkan grafik batang atau diagram kolom yang memperlihatkan jumlah diskon untuk setiap produk atau kategori produk.
+5. menampilkan grafik batang atau diagram kolom yang memperlihatkan jumlah revenue dan profit untuk setiap produk atau kategori produk.
 
 #### Ringkasan Transaksi untuk Produk
 ##### Ringkasan Transaksi untuk Produk
